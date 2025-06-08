@@ -1,1 +1,10 @@
+add nocybertails\raw\character\tails.pac
+add nocybertails\raw\character\tailsP.pac
+add cybertails\raw\character\tails.pac
+add cybertails\raw\character\tailsP.pac
+add cyberknux\raw\character\knuckles.pac
+add cyberknux\raw\character\knucklesP.pac
+add nocyberknux\raw\character\knuckles.pac"
+add nocyberknux\raw\character\knucklesP.pac"
+add config.json
 add mod.ini
