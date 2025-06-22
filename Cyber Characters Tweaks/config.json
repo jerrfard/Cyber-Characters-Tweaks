@@ -1,76 +1,78 @@
 {
-   "Groups": [
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Cyber Effect",
+      "Elements": [
+        {
+          "Name": "IncludeDir1",
+          "DisplayName": "Amy's Cyber Effect",
+          "Description": ["either give amy a cyber effect or not"],
+          "Type": "amy",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "cyberamy"
+        },
+        {
+          "Name": "IncludeDir2",
+          "DisplayName": "Knuckles's Cyber Effect",
+          "Description": [
+            "either give knuckles a cyber effect or not"],
+          "Type": "knuckles",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "cyberknux"
+        },
+        {
+          "Name": "IncludeDir3",
+          "DisplayName": "Tails's Cyber Effect",
+          "Description": [
+            "either give tails a cyber effect or not"],
+          "Type": "tails",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "cybertails" 
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "amy": [
       {
-         "Name": "main",
-         "DisplayName": "Skins",
-         "Elements": [
- 
-            {
-               "Name": "IncludeDir0",
-               "DisplayName": "Tails's Cyber Effect",
-               "Description": [
-                  "To give Tails either a cyber effect or no effect at all.",
-               ],
-               "Type": "Tails",
-		       "MinValue": null,
-		       "MaxValue": null,
-               "DefaultValue": "cybertails"
-            },
-			{
-               "Name": "IncludeDir1",
-               "DisplayName": "Knuckles's Cyber Effect",
-               "Description": [
-                  "To give Knuckles either a cyber effect or no effect at all.",
-               ],
-               "Type": "Knux",
-		       "MinValue": null,
-		       "MaxValue": null,
-               "DefaultValue": "cyberknux"
-            },
-         ]
+        "DisplayName": "Enabled",
+        "Value": "cyberamy",
+        "Description": [""]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": "nocyberamy",
+        "Description": [""]
       }
-   ],
-   
-   "Enums": {
-
-      "Tails": 
-	  [
-
-         {
-            "DisplayName": "Enabled",
-            "Value": "cybertails",
-            "Description": [
-               "Enabled Tails's Cyber effect.",
-            ]
-         },
-
-         {
-            "DisplayName": "Disabled",
-            "Value": "nocybertails",
-            "Description": [
-               "Disabled Tails's Cyber effect.",
-            ]
-         },		 
-      ],
-	  "Knux": 
-	  [
-
-         {
-            "DisplayName": "Enabled",
-            "Value": "cyberknux",
-            "Description": [
-               "Enabled Knuckles's Cyber effect.",
-            ]
-         },
-
-         {
-            "DisplayName": "Disabled",
-            "Value": "nocyberknux",
-            "Description": [
-               "Disabled Knuckles's Cyber effect.",
-            ]
-         },		 
-      ],
-	},  
-   "IniFile": "mod.ini"
+    ],
+    "knuckles": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "cyberknux",
+        "Description": [""]
+      },
+      {
+        "DisplayName": "Disabled",
+        "Value": "nocyberknux",
+        "Description": [""]
+      }
+    ],
+    "tails": [
+      {
+        "DisplayName": "Enabled",
+        "Value": "cybertails",
+        "Description": [""]
+      },
+      {
+        "DisplayName": "Disabled", 
+        "Value": "nocybertails",
+        "Description": [""]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
 }
