@@ -1,3 +1,6 @@
+## Cyber Character Tweaks V1.2.1
+- Fixed the eyelid clipping
+
 ## Cyber Characters Tweaks V1.2
 - ADDED AMYYYY
 - Tweaked Knuckles a bit
