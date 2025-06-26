@@ -6,5 +6,4 @@ add cyberamy/raw/character/amy.pac
 add cyberamy/raw/character/amyP.pac
 add cyberknux/raw/character/knuckles.pac
 add cyberknux/raw/character/knucklesP.pac
-add config.json
 add mod.ini
