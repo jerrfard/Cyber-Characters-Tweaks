@@ -1,3 +1,7 @@
+## Cyber Character Tweaks V1.2.2
+- Fixed Tails's cyber effect not working
+- Fixed cyber particles on the npcs with the cyber removal skin
+
 ## Cyber Character Tweaks V1.2.1
 - Fixed the eyelid clipping
 
