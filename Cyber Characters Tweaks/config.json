@@ -5,7 +5,7 @@
       "DisplayName": "Cyber Effect",
       "Elements": [
         {
-          "Name": "IncludeDir1",
+          "Name": "IncludeDir0",
           "DisplayName": "Amy's Cyber Effect",
           "Description": ["either give amy a cyber effect or not"],
           "Type": "amy",
@@ -14,7 +14,7 @@
           "DefaultValue": "cyberamy"
         },
         {
-          "Name": "IncludeDir2",
+          "Name": "IncludeDir1",
           "DisplayName": "Knuckles's Cyber Effect",
           "Description": [
             "either give knuckles a cyber effect or not"],
@@ -24,7 +24,7 @@
           "DefaultValue": "cyberknux"
         },
         {
-          "Name": "IncludeDir3",
+          "Name": "IncludeDir2",
           "DisplayName": "Tails's Cyber Effect",
           "Description": [
             "either give tails a cyber effect or not"],
