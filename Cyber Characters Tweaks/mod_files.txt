@@ -1,9 +1,5 @@
-add nocyberamy/raw/character/amy.pac
-add nocyberamy/raw/character/amyP.pac
-add nocyberknux/raw/character/knuckles.pac
-add nocyberknux/raw/character/knucklesP.pac
-add cyberamy/raw/character/amy.pac
-add cyberamy/raw/character/amyP.pac
-add cyberknux/raw/character/knuckles.pac
-add cyberknux/raw/character/knucklesP.pac
+add nocyberamy/raw/EventCommon.pac
+add nocyberknux/raw/EventCommon.pac
+add nocybertails/raw/EventCommon.pac
+add config.json
 add mod.ini
