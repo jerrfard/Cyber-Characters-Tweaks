@@ -1,5 +1,3 @@
-add nocyberamy/raw/EventCommon.pac
-add nocyberknux/raw/EventCommon.pac
-add nocybertails/raw/EventCommon.pac
-add config.json
+add cyberamy/raw/character/amyP.pac
+add nocyberamy/raw/character/amyP.pac
 add mod.ini
